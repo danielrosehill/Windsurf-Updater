@@ -2,7 +2,7 @@
 
 A GUI application to simplify the process of updating Windsurf IDE on non-Ubuntu Linux systems (tested on OpenSUSE Tumbleweed).
 
-![Windsurf Updater Demo](updater.GIF)
+![Windsurf Updater Demo](compressed_updater.gif)
 
 ## ⚠️ Disclaimer
 
