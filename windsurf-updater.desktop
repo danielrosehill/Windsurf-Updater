@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Windsurf Updater
+Comment=Update Windsurf IDE on Linux systems
+Exec=/usr/bin/python3 /home/daniel/Development/git-repositories/My-Repos/Loose/Windsurf-Updater/windsurf_updater.py
+Icon=system-software-update
+Terminal=false
+Type=Application
+Categories=Utility;Development;
+Keywords=windsurf;update;ide;
